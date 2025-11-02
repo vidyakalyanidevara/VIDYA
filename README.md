@@ -4,7 +4,9 @@
 📍Passionate about Java,Python
 
 ##🚀About Me
+
 💻 Currently learning *Java, Python & Data Science*  
+
 🌱 Interested in *AI Applications and Data Analytics*  
 
 ✨ "Learning never exhausts the mind."
